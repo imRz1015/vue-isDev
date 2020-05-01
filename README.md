@@ -9,7 +9,7 @@ A sign of development environment
         npm i vue-isDev --save-dev
 
         // main.js
-        import vueIsDev from 'vue-isDev'
+        import vueIsDev from 'vue-isdev'
         Vue.use(vueIsDev)
 
         //some components

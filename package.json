@@ -2,10 +2,25 @@
   "name": "vue-isdev",
   "version": "1.0.0",
   "description": "A sign of development environment",
-  "main": "install.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "TANGIMING",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imRz1015/vue-isDev.git"
+  },
+  "keywords": [
+    "environment",
+    "variable"
+  ],
+  "bugs": {
+    "url": "https://github.com/imRz1015/vue-isDev/issues"
+  },
+  "homepage": "https://github.com/imRz1015/vue-isDev#readme",
+  "devDependencies": {
+    "vue": "^2.6.11"
+  }
 }
