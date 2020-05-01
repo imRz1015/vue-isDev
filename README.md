@@ -2,11 +2,11 @@
 
 A sign of development environment
 
-一个返回是否是开发环境的插件
+一个返回是否是开发环境的插件.
 
 ## Useage
 
-        npm i vue-isDev --save-dev
+        npm i vue-isdev --save-dev
 
         // main.js
         import vueIsDev from 'vue-isdev'
